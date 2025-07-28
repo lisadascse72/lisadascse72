@@ -5,7 +5,7 @@
 <h2 align="center">Hi there, I'm Lisa 👋</h2>
 
 <p align="center">
-  💻 Full Stack MERN Developer | 📊 Data Analyst | 🎨 UI/UX Enthusiast  
+  💻 Full Stack MERN Developer | 📊 Data Analyst | 🎨 UI/UX Designer | 🤖 AI-ML Enthusiast  
 </p>
 
 ---
