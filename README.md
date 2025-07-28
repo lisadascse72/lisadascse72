@@ -10,21 +10,21 @@
 
 ---
 
-### 🚀 Featured Projects
+### Some of my Projects
 
-- 🔍 **[Telecom Churn Predictor](https://github.com/lisadascse72/telecom-churn-predictor)**  
-  ML web app using Random Forest & SHAP for churn prediction + Power BI dashboard for analytics.
+- **[TextBot Assistant](https://github.com/lisadascse72/Textbot-assistant)**  
+  AI chatbot using Gemini API for text generation and interactive conversations supporting voice assistance, STT & TTS.
 
-- 🆘 **[SafeTrace](https://github.com/your-link-here)**  
-  Emergency SOS web app with real-time location tracking and alert dispatch system.
-
-- 🔋 **[CellCycle](https://github.com/your-link-here)**  
+ -  **[CellCycle](https://github.com/lisadascse72/cellcycle)**  
   AI-driven battery health predictor with anomaly detection and predictive maintenance.
 
-- 🤖 **[TextBot Assistant](https://github.com/your-link-here)**  
-  AI chatbot using OpenAI APIs for text generation and interactive conversations.
+- **[SafeTrace](https://github.com/lisadascse72/SafeTrace)**  
+  Emergency SOS web app with real-time location tracking and alert dispatch system.
 
-- 📊 **[Retail Analytics Dashboard](https://github.com/your-link-here)**  
+-  **[Telecom Churn Predictor](https://github.com/lisadascse72/telecom-churn-predictor)**  
+  ML web app using Random Forest & SHAP for churn prediction + Power BI dashboard for analytics.
+
+-  **[Retail Analytics Dashboard](https://github.com/lisadascse72/retail-sales-dashboard)**  
   Power BI dashboard with retail KPIs, segmentation, and dynamic sales trends.
 
 ---
